@@ -1,7 +1,7 @@
 # Python-tkinter-game
 Simple game made with Tkinter's canvas class
 
-Controls: __
-  Shoot: Left mouse button __
-  Move: WASD 
+Controls: <br />
+  Shoot: Left mouse button <br />
+  Move: WASD  <br />
   
